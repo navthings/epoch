@@ -37,3 +37,5 @@ this reminded me of Edward Thorndike's law of effect: behaviours followed by sat
 which makes learning ml feel backwards.
 
 you're asking someone to spend hours learning things they don't yet find rewarding, so that eventually they can reach the part that's rewarding enough to make them want to learn more.
+
+so this tries to fix that :)
